@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2lgQz+g+rwy1gTw72o68BRIXdM75YM+DR6fOMY4wj0WHlxMNboVvTb88rl/uUk5I/iwLfY5rUriGeltg9CnuMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\feron\\OneDrive\\Desktop\\personal-projects\\.net-projects\\elasticsearch-crud\\elasticsearch-crud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\feron\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
+    "C:\\Users\\feron\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\feron\\.nuget\\packages\\nest\\7.17.5\\nest.7.17.5.nupkg.sha512",
+    "C:\\Users\\feron\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\feron\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
