@@ -29,3 +29,6 @@ C:\Users\feron\OneDrive\Desktop\personal-projects\.net-projects\elasticsearch-cr
 C:\Users\feron\OneDrive\Desktop\personal-projects\.net-projects\elasticsearch-crud\obj\Debug\net7.0\elasticsearch-crud.pdb
 C:\Users\feron\OneDrive\Desktop\personal-projects\.net-projects\elasticsearch-crud\obj\Debug\net7.0\elasticsearch-crud.genruntimeconfig.cache
 C:\Users\feron\OneDrive\Desktop\personal-projects\.net-projects\elasticsearch-crud\obj\Debug\net7.0\ref\elasticsearch-crud.dll
+C:\Users\feron\OneDrive\Desktop\personal-projects\.net-projects\elasticsearch-crud\bin\Debug\net7.0\Elasticsearch.Net.dll
+C:\Users\feron\OneDrive\Desktop\personal-projects\.net-projects\elasticsearch-crud\bin\Debug\net7.0\Nest.dll
+C:\Users\feron\OneDrive\Desktop\personal-projects\.net-projects\elasticsearch-crud\obj\Debug\net7.0\elasticsearch-crud.csproj.CopyComplete

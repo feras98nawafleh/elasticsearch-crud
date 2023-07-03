@@ -1,7 +1,11 @@
+using elasticsearch_crud;
+using Nest;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+await builder.Services.RunDriverAsync();
 
 var app = builder.Build();
 
@@ -15,7 +19,6 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
 
 app.UseAuthorization();
